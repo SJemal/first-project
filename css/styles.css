@@ -1,0 +1,91 @@
+body{
+  color: rgb(5, 51, 9);
+  margin:0;
+  text-align: center;
+  font-family: serif;
+}
+h1{
+  color: #66BFBF;
+  margin: 50px 0 auto 0;
+  font-family: cursive;
+  font-size: 80px;
+}
+
+h4{
+  color: #66BFBF;
+  font-weight: normal;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 40px;
+  text-align: center;
+  padding-bottom: 10px;
+  font-weight: normal;
+}
+.web{
+  text-decoration: underline;
+}
+
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 5px;
+  margin: 50px auto;
+}
+
+.girl{
+  width: 200px;
+  height: 180px;
+  position: relative;
+  border-radius: 50%;
+  padding: 15px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 3px;
+  width: 5%;
+  
+
+}
+ 
+.middle-container{
+  margin: 100px o;
+  
+}
+.project-row{
+  margin: 100px auto 100px auto;
+  
+}
+.jobs{
+  border: 0px;
+  border-collapse: separate;
+  border-spacing: 5px;
+  table-layout: fixed;
+  text-align: center;
+  width: 100%;
+border-radius: 50%;
+
+}
+.paragraf{
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(61, 55, 54);
+}
+.p1{
+  margin-bottom: 40px;
+}
+.bottom{
+  background-color: #c3e4de;
+  padding: 50px 0 20px;
+  
+}
+.bottom-link{
+  color: blue;
+  font-family: sans-serif;
+  margin: 10px 20px;
+  
+}
+.hobbies{
+  float: left;
+}
